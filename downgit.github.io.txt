@@ -1,5 +1,6 @@
 ==============================================================
 download specific folder from the git.com/repository
 https://downgit.github.io/#/home
+https://download-directory.github.io/
 copy folder and paste in the above url's input
 ==============================================================
